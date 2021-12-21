@@ -1,0 +1,10 @@
+h1{
+    color: cadetblue;
+    /*Font size tamaño de la fuente
+    medidas comunes px, %, em, rem*/
+    font-size: 72px;
+
+}
+body{
+    background-color: #e1e1e1;
+}
