@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    font-family:  Arial, sans-serif;
+}
+body{
+    background-color:#d3d3d3;
+}
+.titulo{
+    background-color:#808080;
+    color: #ffffff;
+    font-family:  Arial, sans-serif;
+    padding-left: 15px;
+}

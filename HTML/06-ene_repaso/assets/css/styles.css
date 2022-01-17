@@ -1,0 +1,14 @@
+table,tr,td,th{
+    border: 1px solid black;
+}
+table{
+    width: 400px;
+}
+.enlace{
+    display: inline;
+    background-color: cyan;
+}
+#bloque{
+    display: inline;
+    background-color: red;
+}

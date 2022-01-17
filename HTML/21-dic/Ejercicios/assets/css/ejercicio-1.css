@@ -1,0 +1,29 @@
+label{
+    color: white;
+    padding-left: 20px;
+    
+}
+legend{
+    color: white;
+}
+fieldset{
+    border: 0;
+    padding-left: 15px;
+}
+.linea{
+    padding-top: 20px;
+    border-top: 2px dashed white;
+    width: 25%;
+}
+form{
+    padding: 20px;
+    border: 5px solid aquamarine;
+    background-color: green;
+}
+input {
+    border: 2px solid red;
+    padding-left: 30px;
+  }
+  input[type=submit]{
+    border: 0;
+  }
